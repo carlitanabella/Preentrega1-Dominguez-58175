@@ -1,0 +1,12 @@
+{
+  "name": "58175-dominguezcarla-1ra-pre-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "comando-para-iniciar-tu-aplicacion"
+  },
+  "author": "",
+  "license": "ISC"
+}
